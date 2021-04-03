@@ -1,4 +1,4 @@
-public with sharing class AccountMultipleSearchWithPagenationCLS {
+public with sharing class AccountMultipleSearchWithPagenation {
     public Account acc{get;set;}
     public List<Account> accountList {get;set;}
     // create a list of strings to hold the conditions
